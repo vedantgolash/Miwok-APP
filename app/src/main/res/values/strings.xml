@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">MultiScreen App</string>
+    <string name="numbers" translatable="false">Numbers</string>
+    <string name="family" translatable="false">Family Members</string>
+    <string name="colors" translatable="false">Colors</string>
+    <string name="phrases" translatable="false">Phrases</string>
+
+</resources>
